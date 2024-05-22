@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://systema-learn.ru
+
+# Sitemaps
+Sitemap: https://systema-learn.ru/sitemap.xml
